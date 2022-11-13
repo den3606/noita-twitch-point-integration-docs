@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoita_twitch_point_integration_docs=self.webpackChunknoita_twitch_point_integration_docs||[]).push([[5705],{3529:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/noita-twitch-point-integration-docs/blog/tags/hola","allTagsPath":"/noita-twitch-point-integration-docs/blog/tags","count":1}')}}]);
