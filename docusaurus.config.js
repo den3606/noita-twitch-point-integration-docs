@@ -63,9 +63,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Noita Twitch Point Integration',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo',
           src: 'img/noitaTwitchPointIntegration.png',
         },
         items: [
@@ -75,7 +75,6 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/den3606/noita-twitch-point-integration-docs',
             label: 'GitHub',
