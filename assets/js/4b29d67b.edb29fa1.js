@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoita_twitch_point_integration_docs=self.webpackChunknoita_twitch_point_integration_docs||[]).push([[847],{5745:t=>{t.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

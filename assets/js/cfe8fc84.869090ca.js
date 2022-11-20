@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknoita_twitch_point_integration_docs=self.webpackChunknoita_twitch_point_integration_docs||[]).push([[6593],{589:t=>{t.exports=JSON.parse('{"label":"docusaurus","permalink":"/noita-twitch-point-integration-docs/blog/tags/docusaurus","allTagsPath":"/noita-twitch-point-integration-docs/blog/tags","count":4}')}}]);
