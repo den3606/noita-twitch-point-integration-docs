@@ -66,7 +66,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Document',
           },
           {
             href: 'https://github.com/den3606/noita-twitch-point-integration-docs',
