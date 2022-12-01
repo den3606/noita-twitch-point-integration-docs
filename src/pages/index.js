@@ -21,7 +21,7 @@ function HomepageHeader() {
             Twitchとnoitaを連携させよう✨
           </Link>
         </div>
-        <p>🚧現在開発中です🚧</p>
+        <p>🚧現在開発中でα版となります🚧</p>
       </div>
     </header>
   );
