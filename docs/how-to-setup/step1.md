@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Step1 Twitchアカウントの連携
 
+## アプリに対して権限を許可する
+
 Step1では、TwitchアカウントとTwitch Point Integrationの連携を行います。
 
 [https://tpi.noita.den3606.dev/twitch/authorize](https://tpi.noita.den3606.dev/twitch/authorize)   

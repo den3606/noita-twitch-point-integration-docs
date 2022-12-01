@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Step2では、Noita側のMOD設定を行います。
 
+## MODを配置する
+
 GitHubのReleasesページより、最新のソースコード `twitch-point-integration.zip` をダウンロードします。
 
 [https://github.com/den3606/twitch-point-integration/releases](https://github.com/den3606/twitch-point-integration/releases)
@@ -19,6 +21,8 @@ MOD内でフォルダ名を参照しているため、正常に動作しなく�
 :::
 
 ![mod-copy](./img/step2/mod-copy.png)
+
+## MODの設定をする
 
 フォルダの移しが完了した後、Noitaを起動します。Noita内のMOD設定にて、「twitch-point-integration」にチェックを入れてください。
 MOD設定画面に移ると、「twitch-point-integration」の設定が行えるようになっているので、`channelName`, `hostName`の設定を行ってください。
