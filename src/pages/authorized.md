@@ -4,7 +4,8 @@ description: auth end page
 hide_table_of_contents: true
 ---
 
-## 承認完了
+## 連携完了
 
-承認が完了しました。連携作業を読み進めてください。
+Twitch Point Integrationとの連携が完了しました。こちらのタブは閉じても問題ございません。
 
+引き続き、設定作業を読み進めてください。
