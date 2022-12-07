@@ -28,7 +28,8 @@ const sidebars = {
         'how-to-setup/step4'
       ],
     },
-    'event-list'
+    'event-list',
+    'secret-event-list'
   ],
 };
 
